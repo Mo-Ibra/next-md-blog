@@ -1,0 +1,6 @@
+@import 'highlight.js/styles/atom-one-dark.css';
+
+pre {
+  border: 1px solid #eee;
+  margin: 20px;
+}

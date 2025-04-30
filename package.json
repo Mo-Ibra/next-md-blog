@@ -10,12 +10,17 @@
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
+    "hastscript": "^9.0.1",
+    "highlight.js": "^11.11.1",
     "next": "15.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-syntax-highlighter": "^15.6.1",
+    "rehype": "^13.0.2",
+    "rehype-highlight": "^7.0.2",
     "remark": "^15.0.1",
-    "remark-html": "^16.0.1"
+    "remark-html": "^16.0.1",
+    "remark-rehype": "^11.1.2"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
